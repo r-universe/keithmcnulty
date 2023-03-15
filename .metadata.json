@@ -1,0 +1,18 @@
+[
+  {
+    "package": "neo4jshell",
+    "oncran": true
+  },
+  {
+    "package": "onadata",
+    "oncran": true
+  },
+  {
+    "package": "peopleanalyticsdata",
+    "oncran": true
+  },
+  {
+    "package": "wikifacts",
+    "oncran": true
+  }
+]

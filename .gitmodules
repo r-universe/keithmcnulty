@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "neo4jshell"]
+	path = neo4jshell
+	url = https://github.com/keithmcnulty/neo4jshell
+	shallow = true
+	registered = true
+[submodule "onadata"]
+	path = onadata
+	url = https://github.com/keithmcnulty/onadata
+	shallow = true
+	registered = true
+[submodule "peopleanalyticsdata"]
+	path = peopleanalyticsdata
+	url = https://github.com/keithmcnulty/peopleanalyticsdata
+	shallow = true
+	registered = true
+[submodule "wikifacts"]
+	path = wikifacts
+	url = https://github.com/keithmcnulty/wikifacts
+	shallow = true
+	registered = true
